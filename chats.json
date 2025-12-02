@@ -2,21 +2,21 @@
   {
     "id": 1,
     "nome": "Juliana 💚",
-    "foto": "https://raw.githubusercontent.com/Fabe-Yato/json-whatsapp-clone/main/imagens/juliana.jpg",
+    "foto": "https://raw.githubusercontent.com/Fabe-Yato/json-whatsapp-clone/main/uploads/juliana.jpg",
     "ultima_mensagem": "Te mandei o projeto!",
     "hora": "18:30"
   },
   {
     "id": 2,
     "nome": "Mãe",
-    "foto": "https://raw.githubusercontent.com/Fabe-Yato/json-whatsapp-clone/main/imagens/mae.jpg",
+    "foto": "https://raw.githubusercontent.com/Fabe-Yato/json-whatsapp-clone/main/uploads/mae.jpg",
     "ultima_mensagem": "Traz pão quando voltar 😊",
     "hora": "21:05"
   },
   {
     "id": 3,
     "nome": "Grupo Devs",
-    "foto": "https://raw.githubusercontent.com/Fabe-Yato/json-whatsapp-clone/main/imagens/grupo.jpg",
+    "foto": "https://raw.githubusercontent.com/Fabe-Yato/json-whatsapp-clone/main/uploads/grupo.jpg",
     "ultima_mensagem": "Bug resolvido!",
     "hora": "17:10"
   }
