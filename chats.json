@@ -19,5 +19,26 @@
     "foto": "https://raw.githubusercontent.com/Fabe-Yato/json-whatsapp-clone/main/uploads/grupo.jpg?v=1",
     "ultima_mensagem": "Bug resolvido!",
     "hora": "17:10"
+  },
+  {
+    "id": 4,
+    "nome": "Lucas Andrade",
+    "foto": "https://randomuser.me/api/portraits/men/11.jpg",
+    "ultima_mensagem": "Partiu academia hoje?",
+    "hora": "15:20"
+  },
+  {
+    "id": 5,
+    "nome": "Camila Souza",
+    "foto": "https://randomuser.me/api/portraits/women/28.jpg",
+    "ultima_mensagem": "Vou sair mais tarde do trabalho.",
+    "hora": "18:45"
+  },
+  {
+    "id": 6,
+    "nome": "Grupo da Facul",
+    "foto": "https://picsum.photos/id/1011/200/200",
+    "ultima_mensagem": "Alguém fez o exercício 3?",
+    "hora": "09:10"
   }
 ]
