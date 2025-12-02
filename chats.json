@@ -23,21 +23,21 @@
   {
     "id": 4,
     "nome": "Lucas Andrade",
-    "foto": "https://randomuser.me/api/portraits/men/11.jpg",
+    "foto": "https://i.imgur.com/K0lHj4L.jpeg",
     "ultima_mensagem": "Partiu academia hoje?",
     "hora": "15:20"
   },
   {
     "id": 5,
     "nome": "Camila Souza",
-    "foto": "https://randomuser.me/api/portraits/women/28.jpg",
+    "foto": "https://i.imgur.com/efqk3Z3.jpeg",
     "ultima_mensagem": "Vou sair mais tarde do trabalho.",
     "hora": "18:45"
   },
   {
     "id": 6,
     "nome": "Grupo da Faculdade",
-    "foto": "https://picsum.photos/id/1011/200/200",
+    "foto": "https://i.imgur.com/KcGxV8O.jpeg",
     "ultima_mensagem": "Alguém fez o exercício 3?",
     "hora": "09:10"
   }
