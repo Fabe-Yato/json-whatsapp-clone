@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "nome": "Juliana 💚",
+    "nome": "Fabiano",
     "foto": "https://raw.githubusercontent.com/Fabe-Yato/json-whatsapp-clone/main/uploads/juliana.jpg?v=1",
     "ultima_mensagem": "Te mandei o projeto!",
     "hora": "18:30"
@@ -36,7 +36,7 @@
   },
   {
     "id": 6,
-    "nome": "Grupo da Facul",
+    "nome": "Grupo da Faculdade",
     "foto": "https://picsum.photos/id/1011/200/200",
     "ultima_mensagem": "Alguém fez o exercício 3?",
     "hora": "09:10"
