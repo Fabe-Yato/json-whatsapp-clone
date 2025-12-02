@@ -2,21 +2,21 @@
   {
     "id": 1,
     "nome": "Juliana 💚",
-    "foto": "https://i.imgur.com/FQX7Q2M.jpeg",
+    "foto": "https://i.pinimg.com/736x/37/49/a1/3749a100491176c27b738b46d7490610.jpg",
     "ultima_mensagem": "Te mandei o projeto!",
     "hora": "18:30"
   },
   {
     "id": 2,
     "nome": "Mãe",
-    "foto": "https://i.imgur.com/SYpO6Rh.jpeg",
+    "foto": "https://i.pinimg.com/474x/a4/32/f8/a432f80bf180d3df9b4116131cdb07e1.jpg",
     "ultima_mensagem": "Traz pão quando voltar 😊",
     "hora": "21:05"
   },
   {
     "id": 3,
     "nome": "Grupo Devs",
-    "foto": "https://i.imgur.com/zRZl9mf.png",
+    "foto": "https://i.pinimg.com/474x/a4/32/f8/a432f80bf180d3df9b4116131cdb07e1.jpg",
     "ultima_mensagem": "Bug resolvido!",
     "hora": "17:10"
   }
