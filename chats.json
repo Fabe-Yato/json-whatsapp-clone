@@ -23,14 +23,14 @@
   {
     "id": 4,
     "nome": "Lucas Andrade",
-    "foto": "https://static.vecteezy.com/ti/vetor-gratis/p1/26434417-padrao-avatar-perfil-icone-do-social-meios-de-comunicacao-do-utilizador-foto-vetor.jpg",
+    "foto": "https://raw.githubusercontent.com/Fabe-Yato/json-whatsapp-clone/main/uploads/sem-foto.jpg?v=1",
     "ultima_mensagem": "Partiu academia hoje?",
     "hora": "15:20"
   },
   {
     "id": 5,
     "nome": "Camila Souza",
-    "foto": "https://static.vecteezy.com/ti/vetor-gratis/p1/26434417-padrao-avatar-perfil-icone-do-social-meios-de-comunicacao-do-utilizador-foto-vetor.jpg",
+    "foto": "https://raw.githubusercontent.com/Fabe-Yato/json-whatsapp-clone/main/uploads/sem-foto.jpg?v=1",
     "ultima_mensagem": "Vou sair mais tarde do trabalho.",
     "hora": "18:45"
   },
